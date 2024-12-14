@@ -1,0 +1,11 @@
+F:\KiemThuPhanMemCoBan\Bai_lam_ca_nhan\Buoi04\TinhTienVe\TinhTienVe\bin\Debug\TinhTienVe.exe.config
+F:\KiemThuPhanMemCoBan\Bai_lam_ca_nhan\Buoi04\TinhTienVe\TinhTienVe\bin\Debug\TinhTienVe.exe
+F:\KiemThuPhanMemCoBan\Bai_lam_ca_nhan\Buoi04\TinhTienVe\TinhTienVe\bin\Debug\TinhTienVe.pdb
+F:\KiemThuPhanMemCoBan\Bai_lam_ca_nhan\Buoi04\TinhTienVe\TinhTienVe\obj\Debug\TinhTienVe.csproj.AssemblyReference.cache
+F:\KiemThuPhanMemCoBan\Bai_lam_ca_nhan\Buoi04\TinhTienVe\TinhTienVe\obj\Debug\TinhTienVe.csproj.SuggestedBindingRedirects.cache
+F:\KiemThuPhanMemCoBan\Bai_lam_ca_nhan\Buoi04\TinhTienVe\TinhTienVe\obj\Debug\TinhTienVe.Form1.resources
+F:\KiemThuPhanMemCoBan\Bai_lam_ca_nhan\Buoi04\TinhTienVe\TinhTienVe\obj\Debug\TinhTienVe.Properties.Resources.resources
+F:\KiemThuPhanMemCoBan\Bai_lam_ca_nhan\Buoi04\TinhTienVe\TinhTienVe\obj\Debug\TinhTienVe.csproj.GenerateResource.cache
+F:\KiemThuPhanMemCoBan\Bai_lam_ca_nhan\Buoi04\TinhTienVe\TinhTienVe\obj\Debug\TinhTienVe.csproj.CoreCompileInputs.cache
+F:\KiemThuPhanMemCoBan\Bai_lam_ca_nhan\Buoi04\TinhTienVe\TinhTienVe\obj\Debug\TinhTienVe.exe
+F:\KiemThuPhanMemCoBan\Bai_lam_ca_nhan\Buoi04\TinhTienVe\TinhTienVe\obj\Debug\TinhTienVe.pdb
